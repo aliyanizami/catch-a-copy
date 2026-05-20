@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Catch A Copy",
+  "description": "A web-based application to streamline the printing process in Xerox shops, allowing users to upload documents, select options, and schedule 15-minute pickup slots.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
